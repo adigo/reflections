@@ -1,7 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
+i need to init the repository so that the git will start initializing the folder
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+staging area let you have more control over your directory. you can choose to have other files there and not included in the commit
 
 How can you use the staging area to make sure you have one commit per logical
 change?
