@@ -14,6 +14,7 @@ organized? How would branches help?
 I can keep my mastr inact by creating a new branch and test new features on the branch
 
 How do the diagrams help you visualize the branch structure?
+Knowing what branch com from which commit at what time
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
