@@ -11,6 +11,7 @@ only add the file that have one logic change into staged
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+I can keep my mastr inact by creating a new branch and test new features on the branch
 
 How do the diagrams help you visualize the branch structure?
 
