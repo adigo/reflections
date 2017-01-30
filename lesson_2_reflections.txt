@@ -22,3 +22,4 @@ it joins the two modification together.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+automatic merge might still ntroduce bugs. manual is too troublesome.
