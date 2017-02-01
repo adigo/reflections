@@ -26,4 +26,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    working on maser is easier cause master is the main product to publish. however
+    when you need to work on a side project and do not want to affect master, or 
+    not even know whather this change will be include in master or not, use branch
+     is good for this condition.
